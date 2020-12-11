@@ -1,0 +1,5 @@
+echo If you are running this as root please use CTRL C and run exe install ohmyzsh without root
+echo If not, wait 5 minutes
+sleep 5
+wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
+sh install.sh
